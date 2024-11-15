@@ -40,11 +40,13 @@
 
 ### 📈 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzining)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ningzining&hide=javascript,html)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ningzining)
 
+### 🏆 trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=ningzining&theme=flat)
 
+### ✨ GitHub contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ningzining/ningzining/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ningzining/ningzining/output/github-snake.svg" />
