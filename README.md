@@ -18,13 +18,15 @@
 
   **Java**: 
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-  ![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring)
-  ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot)
-  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven)
+  ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=fff)
+  ![SpringBoot](https://img.shields.io/badge/-Springboot-6DB33F?style=flat&logo=springboot&logoColor=fff)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=fff)
   
   **Node.js**: 
-  ![Node.js](https://img.shields.io/badge/-Node-5FA04E?style=flat-square&logo=Node&logoColor=fff)
+  ![Node.js](https://img.shields.io/badge/-Node-5FA04E?style=flat-square&logo=Nodedotjs&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=fff)
+  ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=fff)
 
   **Databases**: 
   ![MySQL](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=fff)
@@ -37,6 +39,8 @@
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=fff)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
+  ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=Nginx&logoColor=fff)
+  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=fff)
 
 ### 📈 GitHub Stats
 
